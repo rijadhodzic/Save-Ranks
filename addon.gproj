@@ -1,0 +1,8 @@
+GameProject {
+ ID "SaveRanks"
+ GUID "695F421472ADB40F"
+ TITLE "Save Ranks"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
